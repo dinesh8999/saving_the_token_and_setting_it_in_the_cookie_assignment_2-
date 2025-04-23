@@ -3,6 +3,7 @@
     "start": "servor --reload"
   },
   "dependencies": {
+    "cookie-parser": "^1.4.7",
     "servor": "^4.0.2"
   }
 }
